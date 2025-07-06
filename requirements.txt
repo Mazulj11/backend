@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+firebase-admin
+pillow
+numpy
+python-multipart
+requests
+biopython
